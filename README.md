@@ -54,3 +54,8 @@ The official repository for the MageOS iso
 
 > [!NOTE]
 > TBD
+
+# Styling
+
+## colourscheme:
+![](meta/MageOS-palette.png)
